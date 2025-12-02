@@ -15,3 +15,4 @@ chigga chigga chigga jeremy icebergus digolas
 1. Use `git branch [branch name]` to make a branch
 
 thing 1
+thing 3
