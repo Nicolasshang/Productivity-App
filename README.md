@@ -12,3 +12,4 @@ chigga chigga chigga jeremy icebergus digolas
 3. Use `git status` to check commits and `git remote` to check for remotes.
 
 thing 2
+thing 4
