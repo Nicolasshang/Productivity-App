@@ -11,7 +11,5 @@ chigga chigga chigga jeremy icebergus digolas
 2. Use `git clone https://github.com/Nicolasshang/Productivity-App` to get a local copy of the repo.
 3. Use `git status` to check commits and `git remote` to check for remotes.
 
-thing 1
-thing 2
-thing 3
-thing 4
+## Branching
+1. Use `git checkout -b [branch name]` to create a new branch and go onto it. 
