@@ -10,3 +10,5 @@ chigga chigga chigga jeremy icebergus digolas
 1. Use `git fetch origin` to locally download all the changes that have been made in the repo.
 2. Use `git clone https://github.com/Nicolasshang/Productivity-App` to get a local copy of the repo.
 3. Use `git status` to check commits and `git remote` to check for remotes.
+
+thing 2
