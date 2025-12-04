@@ -17,4 +17,4 @@ chigga chigga chigga jeremy icebergus digolas lemonade
 3. For merging into main, checkout into main and run `git merge [branch name]`
 4. `git pull origin main` first fetches all the changes from the main branch, integrates it into your current branch, and then merges them together. 
 
-CHIGGOLAS EDIT
+CHIGGER
