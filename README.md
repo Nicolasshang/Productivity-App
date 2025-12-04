@@ -1,5 +1,5 @@
 # Productivity-App
-chigga chigga chigga jeremy icebergus digolas
+chigga chigga chigga jeremy icebergus digolas lemonade
 
 ## Git commands for normal changes to main build
 1. Stage changes using `git add (file name)` to add changes to a file or `git add .` to add all changes.
